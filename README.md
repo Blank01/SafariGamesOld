@@ -61,3 +61,5 @@ In this phase there is no time limit.
   Starts the Join phase
 - /tournament add <player>
   Adds a player to the tournament
+  
+Warps and arenas can be edited directly from their configuration files in the mod options folder, although a restart is neede for the changes to take effect
