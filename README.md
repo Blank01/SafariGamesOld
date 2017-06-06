@@ -1,5 +1,7 @@
 # SafariGamesOld
 Old sidemod for pixelmon that adds SafariGames
+The server needs to be properly setup with custom spawn rates and starting pokemons.
+It also needs Trading areas with traders, a Pokecenter and a Tournament area with enough arenas.
 
 Last tested on Pixelmon 5.0.1
 
